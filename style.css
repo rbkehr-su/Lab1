@@ -1,0 +1,56 @@
+html, body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    height: 60px;
+    line-height: 60px;
+    padding: 20px;
+    background-color: #00ff00;
+}
+
+.header h1 {
+    float: left;
+    margin: 0px;
+}
+
+.header ul{
+    float: right;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+.header li{
+    float: left;
+    margin-left: 20px;
+}
+
+.header li a{
+    text-decoration: none;
+    color: #000;
+}
+
+.content{
+    width: 70%;
+    float: left;
+    background-color: #6b6b6b;
+    height: 500px;
+}
+
+.sidebar{
+    width: 30%;
+    float: left;
+    background-color: #323232;
+    color: #ffffff;
+    height: 500px;
+}
+
+.content p{
+    margin: 20px;
+}
+
+.sidebar p{
+    margin: 20px;
+}
