@@ -35,7 +35,7 @@ html, body{
 .content{
     width: 70%;
     float: left;
-    background-color: #6b6b6b;
+    background-color: #e3e3e3;
     height: 500px;
 }
 
@@ -53,4 +53,20 @@ html, body{
 
 .sidebar p{
     margin: 20px;
+}
+
+.blog-post{
+    margin: 10px;
+    padding: 10px;
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #757575;
+    border-width: 2px;
+    border-radius: 5px;
+}
+
+img{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 5px;
 }
